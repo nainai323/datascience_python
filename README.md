@@ -10,3 +10,7 @@
 
 ## データ出典
 - NBAデータ：https://www.basketball-reference.com/leagues/NBA_2023_totals.html
+- 不動産データ：https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set
+- ワインデータ：https://archive.ics.uci.edu/dataset/109/wine
+- 住宅データ：https://jse.amstat.org/v19n3/decock.pdf
+- RNAデータ：https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
